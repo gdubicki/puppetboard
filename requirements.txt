@@ -5,6 +5,6 @@ MarkupSafe >=0.19
 WTForms >=2.1
 Werkzeug >=0.12.1
 itsdangerous >=0.23
-pypuppetdb >=1.0.0
+git+git://github.com/gdubicki/pypuppetdb@nodes_query_optionally_without_event_counts_1.1.0#egg=pypuppetdb
 requests >=2.13.0
 CommonMark==0.7.2
